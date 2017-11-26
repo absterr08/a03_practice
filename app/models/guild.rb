@@ -1,0 +1,6 @@
+class Guild < ApplicationRecord
+  
+
+  
+  
+end

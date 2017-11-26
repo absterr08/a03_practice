@@ -1,0 +1,5 @@
+class Casting < ApplicationRecord
+  
+
+  
+end

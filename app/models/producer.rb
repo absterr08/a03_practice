@@ -1,0 +1,5 @@
+class Producer < ApplicationRecord
+  
+
+  
+end
